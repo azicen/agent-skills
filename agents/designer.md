@@ -1,8 +1,6 @@
 ---
 description: 前端 UI/UX 实现专家。编写样式、组件、布局、动效、响应式设计和视觉打磨代码。
 mode: subagent
-model: newapi/gemini-3.7-flash
-variant: high
 hidden: true
 temperature: 0.1
 permission:

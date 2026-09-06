@@ -1,8 +1,6 @@
 ---
 description: 只读代码库侦察。当实现位置或影响范围不确定时，定位文件、符号、实现、用法和现有模式。
 mode: subagent
-model: newapi/gemini-3.7-flash
-variant: high
 hidden: true
 temperature: 0.1
 permission:

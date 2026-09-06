@@ -1,8 +1,6 @@
 ---
 description: 面向高风险架构、疑难调试、代码审查、简化、安全性、可扩展性和数据完整性决策的只读高级顾问。
 mode: subagent
-model: newapi/claude-opus-4-6
-variant: max
 hidden: true
 temperature: 0.1
 permission:
