@@ -55,7 +55,7 @@ permission:
 | 条件 | 加载技能 |
 |---|---|
 | 修改 Go 代码 | `uber-go-guide` |
-| 修改 Kratos v2 项目中的 Go 代码 | `uber-go-guide`、`kratos-dev-specs` |
+| 修改 Kratos 项目中的 Go 代码 | `uber-go-guide`、`kratos-dev-specs` |
 | 修改 TypeScript 或 React 代码 | `composition-patterns`、`react-best-practices` |
 | 修改 React 页面过渡、共享元素或 UI 动效 | `composition-patterns`、`react-best-practices`、`react-view-transitions` |
 | 新增或修复测试、重构既有行为 | `test-driven-development` |
@@ -71,7 +71,7 @@ permission:
 - 编辑前阅读本地指令和相关代码。
 - 保留无关工作。不要还原或重写分配范围之外的改动。
 - 不要进行设计工作、广泛研究、架构规划或主要代码审查。应简要指出明显问题。
-- 不要委派工作。若上下文不足，在分配范围内自行检查本地代码。
+- 不要委派工作。若上下文不足，在分配范围内有限的自行检查本地代码。
 - 没有阻塞性理由时不要扩大范围；应精确报告阻塞原因。
 - 编辑后运行范围最小但有意义的验证。除非已运行测试并观察到结果，否则不要声称测试已通过。
 

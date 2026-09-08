@@ -21,7 +21,7 @@
         "gopls",
         "mcp"
       ],
-      "enabled": true,
+      "enabled": false,
       "type": "local"
     },
     "metamcp-code": {
@@ -469,7 +469,7 @@
     "/home/azicen/.config/kilo/AGENTS.md"
   ],
   "default_agent": "sisyphus",
-  "small_model": "newapi/gemini-3.7-flash",
+  "small_model": "newapi/gemini-3.8-flash",
   "hide_prompt_training_models": true,
   "experimental": {
     "batch_tool": true,
